@@ -1,0 +1,20 @@
+
+    .bleu {
+        color:blue;
+    }
+    .style {
+        font-family:courier;
+    }
+    .centre {
+        text-align:center;
+    }
+    .taille {
+        font-size:50px;
+    }
+    .jaune {
+        background-color:yellow;
+    }
+    .bordure {
+        border:solid 1px blue;
+        boder-height: 200px;
+    }
